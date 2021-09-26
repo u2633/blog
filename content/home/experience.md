@@ -30,9 +30,9 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-      - Assist junior engineers to solve development problems.
-      - Knowledge and experiences sharing.
-      - Frontend development and maintenance with Angular
+      - As a mentor to lead teammates to accomplish development task.
+      - Knowledge and experience sharing.
+      - Front-end development and maintenance with Angular
       - Project management.
 
 
@@ -46,7 +46,7 @@ experience:
     description: |2-
       - Full-Stack development with ReactJS, NestJS and Golang.
       - AWS administrator
-      - DevOps development
+      - DevOps engineering
       - Smart contract development with go ethereum.
 
 
