@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Linux Commands Cheat Sheet"
-subtitle: ""
-summary: "Linux 指令備忘錄"
+subtitle: "haha"
+summary: "Kubernetes commands that I think it's important or commonly used"
 authors: [Zane]
 tags: [Linux]
-categories: [CheatSheet]
+categories: [Cheat Sheet]
 date: 2020-11-09T14:00:18+08:00
 lastmod: 2020-11-09T14:00:18+08:00
 featured: false
@@ -28,20 +28,20 @@ image:
 projects: []
 ---
 
-## 查詢使用者是否具有 SUDO 的權限
+## Check User SUDO Permission
 
-指令:
+Command:
 
 `sudo -l -U $USER_NAME`
 
-範例:
+Example:
 
 ```shell
-# 無權限
+# Without permission
 -bash-4.2# sudo -l -U jenkins
 User jenkins is not allowed to run sudo on localhost.
 
-# 有權限
+# With permission
 -bash-4.2# sudo -l -U root
 Matching Defaults entries for root on localhost:
     !visiblepw, always_set_home, match_group_by_gid, env_reset,
@@ -57,8 +57,12 @@ User root may run the following commands on localhost:
 -bash-4.2#
 ```
 
-## 將 Screen Log 也導流一份至檔案
+## Generate Log File and Show on Screen Simultaneously
 
-指令:
+Command:
 
 `$COMMAND | tee build.log 2>&1`
+
+Example:
+
+``

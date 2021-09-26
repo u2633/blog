@@ -1,14 +1,14 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Docker Commands Cheat Sheet"
+title: "Kubernetes Command Cheat Sheet"
 subtitle: ""
-summary: "Docker 指令備忘錄"
+summary: "Kubernetes commands that I think it's important or commonly used"
 authors: [Zane]
-tags: [Docker]
-categories: [CheatSheet]
-date: 2020-11-09T14:01:20+08:00
-lastmod: 2020-11-09T14:01:20+08:00
+tags: [Kubernetes]
+categories: [Cheat Sheet]
+date: 2021-09-26T09:21:26+08:00
+lastmod: 2021-09-26T09:21:26+08:00
 featured: false
 draft: false
 
