@@ -14,7 +14,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: The best way to learn is to make your hand dirty.
+bio: The best way for learning is to make your hand dirty.
 
 # Interests to show in About widget
 interests:
