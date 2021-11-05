@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
   - organization: Udemy
     organization_url: 'https://www.udemy.com/'
+    title: Ultimate AWS Certified Solutions Architect Associate 2021
+    url: 'https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/'
+    certificate_url: 'https://www.udemy.com/certificate/UC-dd3df678-97cd-46c7-9d0a-7ee6009d67c0/'
+    date_start: '2021-11-05'
+    date_end: ''
+    description: ''
+  - organization: Udemy
+    organization_url: 'https://www.udemy.com/'
     title: 【Scrapy进阶】高速图片爬虫
     url: 'https://www.udemy.com/share/102xaeAkMcdFtRRXo=/'
     certificate_url: 'https://www.udemy.com/certificate/UC-H3FS0UZ4/'
