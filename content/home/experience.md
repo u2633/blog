@@ -44,10 +44,11 @@ experience:
     date_start: '2020-09-01'
     date_end: '2021-02-28'
     description: |2-
-      - Full-Stack development with ReactJS, NestJS and Golang.
-      - AWS administrator
-      - DevOps engineering
-      - Smart contract development with go ethereum.
+      - AWS infrastructures maintenance
+      - CI/CD system maintenance (Jenkins)
+      - Smart contract development and maintenance (Ethereum)
+      - Frontend development and maintenance (React)
+      - Backend API development and maintenance (Golang)
 
 
   - title: DevOps Engineer

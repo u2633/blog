@@ -18,11 +18,12 @@ bio: The best way for learning is to make your hand dirty.
 
 # Interests to show in About widget
 interests:
-- DevOps
-- Cloud Service
+- Cloud Native
 - Serverless
-- Docker
-- Kubernetes
+- Containerization
+- DevOps
+
+
 
 # Education to show in About widget
 education:
