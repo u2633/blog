@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - organization: Amazon Web Service
+    organization_url: 'https://aws.amazon.com/'
+    title: Certified Solutions Architect Associate
+    url: 'https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/'
+    certificate_url: 'https://www.credly.com/badges/3c9a7b78-f965-4b8b-a281-1fd1dafcfc7c/public_url'
+    date_start: '2022-01-18'
+    date_end: ''
+    description: ''
   - organization: Udemy
     organization_url: 'https://www.udemy.com/'
     title: Ultimate AWS Certified Solutions Architect Associate 2021
