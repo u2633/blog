@@ -71,3 +71,7 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
+backend:
+  name: git-gateway
+  repo: u2633/blog
+  branch: main
