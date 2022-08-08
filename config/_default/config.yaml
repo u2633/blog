@@ -11,7 +11,7 @@ copyright: 'Copyright © 2022 Zane Chen. All Rights Reserved' # Footer text, e.g
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+# defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
