@@ -40,8 +40,8 @@ header:
 footer:
   copyright:
     # Copyright © 2022 Zane Chen. All Rights Reserved
-    # notice: '© {year} Zane Chen. This work is licensed under {license}'
-    notice: '© {year} Zane Chen. All Rights Reserved'
+    notice: '© {year} Zane Chen. This work is licensed under {license}'
+    # notice: '© {year} Zane Chen. All Rights Reserved'
     license:
       enable: true
       allow_derivatives: false
