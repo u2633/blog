@@ -22,8 +22,9 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 ############################
 ## ADVANCED
@@ -67,11 +68,36 @@ related:
     - name: categories
       weight: 70
 security:
+  _merge: deep
   funcs:
     getenv:
       - ^HUGO_
       - ^WC_
+      -
+sitemap:
+  _merge: deep
+
 backend:
   name: git-gateway
   repo: u2633/blog
   branch: main
+
+
+############################
+## Page Collections
+############################
+
+# cascade:
+#   # Configure blog posts
+#   - _target:
+#       path: /post/**
+#     pager: true
+#     editable: true
+#     reading_time: true
+#     commentable: true
+#     show_related: true
+#     show_breadcrumb: true
+#     share: true
+#     header:
+#       navbar:
+#         enable: false

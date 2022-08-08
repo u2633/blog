@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Init Post"
+title: "Reborn "
 subtitle: ""
 summary: "My first post after renew my blog"
 authors: [Zane]
@@ -32,7 +32,7 @@ projects: []
 
 This month is October and it is almost close to the end of 2021.
 I did not write an article at all this year because I lost a lost of new articles during I reinstall my laptop.
-It really made me feel frustrated. Another reason is because that my frequency of job change this year is a bit frequent.
+It really made me feel frustrated. Another reason is because that my frequency of job change this year.
 I am not a person who is afraid on job change. Of course, there will be disputes from my family or friends about my frequent job changes, but I would rather look for a suitable position for me than the eyes of others.
 
 In these 2 years, I have been engaged in front-end, full-stack development and DevOps.

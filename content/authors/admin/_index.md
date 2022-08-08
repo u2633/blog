@@ -14,7 +14,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: The best way for learning is to make your hand dirty.
+bio: The best way for learning is to make your hands dirty.
 
 # Interests to show in About widget
 interests:
@@ -35,9 +35,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:zanechen.bz@gmail.com'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:zanechen.bz@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CHENZHENYANG
@@ -53,7 +53,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/uploads/resume.pdf
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zanechen.bz@gmail.com"

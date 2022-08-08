@@ -1,6 +1,5 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Docker Commands Cheat Sheet"
 subtitle: ""
 summary: "Docker commands that I think it's important or commonly used"

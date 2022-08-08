@@ -30,8 +30,6 @@ projects: []
 
 ## Introduction
 
-When I decide to become a Cloud Practitioner, I believe the best way to prove myself is to obtain the related certificate. I really like and admire the [blogger](https://easoncao.com/how-i-pass-aws-all-five-certificate-within-one-year/) who is now working at Amazon as well. In the article he mentioned that he doesn't want the exam just for exam. He wanted it become a way for systematic study. His attitude and article impacts me a lot and is very similar to my thinking on learning. I recommend you who is reading my article could also read his blogger.
-
-## Day 1
+When I decide to become a Cloud Practitioner, I believe the best way to prove myself is to obtain the related certificate. I really like and admire the [blogger](https://easoncao.com/how-i-pass-aws-all-five-certificate-within-one-year/) who is now working at Amazon as well. In the article he mentioned that he doesn't want the exam just for exam. He wanted it become a way for systematic study. His attitude and articles impacts me a lot and is very similar to my thoughts on learning. I recommend you who is reading my article could also read his blogger.
 
 ## Conclusion
