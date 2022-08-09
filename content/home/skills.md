@@ -56,6 +56,15 @@ feature:
   icon_pack: fab
   name: Angular(2+)
 
+- description: 70%
+  icon: vuejs
+  icon_pack: fab
+  name: Vue3
+
+- description: 60%
+  icon: react
+  icon_pack: fab
+  name: React
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
