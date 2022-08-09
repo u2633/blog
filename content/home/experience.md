@@ -22,13 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: DevOps Engineer(Freelancer)
+    company: Catheon Gaming
+    company_url: 'https://catheongaming.com/'
+    company_logo: catheongaming
+    location: Taiwan
+    date_start: '2022-02-01'
+    date_end: '2022-04-30'
+    description: |2-
+      - Build up infrastructure of services with Route53, Cloudfront, S3, EC2, ALB.
+      - Build up CICD with Codepipeline and Lambda.
+      - Migrate the services to ECS.
+
+
   - title: Assistant Manager
     company: Rakuten International Commercial Bank
     company_url: 'https://www.rakuten-bank.com.tw/'
     company_logo: rakuten
     location: Taiwan
     date_start: '2021-08-01'
-    date_end: ''
+    date_end: '2022-03-09'
     description: |2-
       - As a mentor to lead teammates to accomplish development task.
       - Knowledge and experience sharing.
@@ -41,26 +54,14 @@ experience:
     company_url: 'https://aries.financial/'
     company_logo: aries
     location: Taiwan
-    date_start: '2020-09-01'
-    date_end: '2021-02-28'
+    date_start: '2021-03-01'
+    date_end: '2021-07-31'
     description: |2-
-      - AWS infrastructures maintenance
+      - Infrastructure building up and maintenance for front-end, back-end and RDB with AWS.
       - CI/CD system maintenance (Jenkins)
       - Smart contract development and maintenance (Ethereum)
       - Frontend development and maintenance (React)
       - Backend API development and maintenance (Golang)
-
-
-  - title: DevOps Engineer
-    company: Aries Financial DeFi
-    company_url: 'https://aries.financial/'
-    company_logo: aries
-    location: Taiwan
-    date_start: '2020-11-01'
-    date_end: '2021-02-28'
-    description: |2-
-      - Infrastructure building up and maintenance for front-end, back-end and RDB with AWS.
-      - CI/CD system building up with Jenkins.
 
 
   - title: DevOps Engineer
