@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: "EC2 RDS S3\n\nCloudfront Route53"
+- description: "CSAA"
   icon: aws
   icon_pack: fab
   name: AWS
@@ -26,7 +26,7 @@ feature:
   icon_pack: fab
   name: Golang
 
-- description: 60%
+- description: 70%
   icon: docker
   icon_pack: fab
   name: Docker
