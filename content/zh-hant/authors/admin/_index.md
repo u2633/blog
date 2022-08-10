@@ -38,9 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:zanechen.bz@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/CHENZHENYANG
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/CHENZHENYANG
 - icon: github
   icon_pack: fab
   link: https://github.com/u2633
