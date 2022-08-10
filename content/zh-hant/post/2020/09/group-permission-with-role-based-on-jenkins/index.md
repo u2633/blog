@@ -30,7 +30,7 @@ projects: []
 
 ## 前言
 
-筆者之前寫過一篇類似的[文章]({{< ref "/post/archived/2020/09/group-permission-on-jenkins" >}} "Group Permission on Jenkins") ，只是使用的是`Project-Based`。但筆者發現，這樣的做法反而增加了管理上的難度，因為**使用者/群組**是在作業系統上的，如果需要增加使用者，便會需要進入作業系統設定，這造成了時間成本，而且筆者使用的是容器化的 Jenkins，這又增加了管理上的難度。
+筆者之前寫過一篇類似的[文章]({{< ref "/post/2020/09/group-permission-on-jenkins" >}} "Group Permission on Jenkins") ，只是使用的是`Project-Based`。但筆者發現，這樣的做法反而增加了管理上的難度，因為**使用者/群組**是在作業系統上的，如果需要增加使用者，便會需要進入作業系統設定，這造成了時間成本，而且筆者使用的是容器化的 Jenkins，這又增加了管理上的難度。
 
 最近剛好發現 Jenkins 上其實還有另外還有一種相對簡單的群組管理方式，而且不需要摸到系統層級，只要在 Jenkins 設定即可。
 
