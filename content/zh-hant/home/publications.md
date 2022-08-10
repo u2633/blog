@@ -11,7 +11,7 @@ weight: 90
 
 active: false
 
-title: Recent Publications
+title: 近期出版
 subtitle: ''
 
 content:
