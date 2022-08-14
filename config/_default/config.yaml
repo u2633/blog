@@ -5,7 +5,7 @@
 
 title: ZANE CHEN # Website name
 baseurl: 'https://blog.zcychen.com/' # Website URL
-copyright: 'Copyright © 2022 Zane Chen. All Rights Reserved' # Footer text, e.g. '© {year} Me'
+# copyright: 'Copyright © 2022 Zane Chen. All Rights Reserved' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
