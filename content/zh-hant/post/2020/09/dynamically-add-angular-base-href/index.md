@@ -6,7 +6,7 @@ subtitle: ""
 summary: "動態設定 Angular Base Href"
 authors: [Zane]
 tags: [Angular]
-categories: [Programming]
+categories: [程式語言]
 date: 2020-09-11T10:06:19+08:00
 lastmod: 2020-09-11T10:06:19+08:00
 featured: false

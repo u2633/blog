@@ -6,7 +6,7 @@ subtitle: ""
 summary: "如何建立 Flutter Plugin"
 authors: [Zane]
 tags: [Flutter]
-categories: [Programming]
+categories: [程式語言]
 date: 2020-07-21T11:52:30+08:00
 lastmod: 2020-07-21T11:52:30+08:00
 featured: false

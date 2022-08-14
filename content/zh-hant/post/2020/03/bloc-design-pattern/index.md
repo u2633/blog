@@ -6,7 +6,7 @@ subtitle: ""
 summary: "在 Flutter 導入 Business Logic Component Pattern 的學習筆記"
 authors: [Zane]
 tags: [Flutter, BLoC]
-categories: [Programming]
+categories: [程式語言]
 date: 2020-03-10T14:50:24+08:00
 lastmod: 2020-03-10T14:50:24+08:00
 featured: false

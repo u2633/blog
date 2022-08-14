@@ -6,7 +6,7 @@ subtitle: ""
 summary: "XMPP 的學習筆記"
 authors: [Zane]
 tags: [XMPP]
-categories: [Programming]
+categories: [程式語言, 通訊協定]
 date: 2020-04-09T14:34:42+08:00
 lastmod: 2020-04-09T14:34:42+08:00
 featured: false

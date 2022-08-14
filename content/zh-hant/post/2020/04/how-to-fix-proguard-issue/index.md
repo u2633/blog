@@ -6,7 +6,7 @@ subtitle: ""
 summary: "解決更新 Flutter SDK 後程式碼混淆造成的錯誤"
 authors: [Zane]
 tags: [Flutter]
-categories: [Programming]
+categories: [程式語言]
 date: 2020-04-28T19:40:57+08:00
 lastmod: 2020-04-28T19:40:57+08:00
 featured: false

@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Leetcode 刷題解答"
 authors: [Zane]
 tags: [Leetcode]
-categories: [Programming]
+categories: [程式語言]
 date: 2020-03-10T17:20:29+08:00
 lastmod: 2020-03-10T17:20:29+08:00
 featured: false

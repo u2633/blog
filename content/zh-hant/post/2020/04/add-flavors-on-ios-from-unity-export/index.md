@@ -6,7 +6,7 @@ subtitle: ""
 summary: "在 Unity Export 時客制化 iOS 設定檔"
 authors: [Zane]
 tags: [Flutter, Unity]
-categories: [Programming]
+categories: [程式語言]
 date: 2020-04-30T10:02:21+08:00
 lastmod: 2020-04-30T10:02:21+08:00
 featured: false

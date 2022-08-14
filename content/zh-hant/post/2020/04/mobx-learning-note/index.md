@@ -6,7 +6,7 @@ subtitle: ""
 summary: "學習 MobX 並且在 Flutter 專案中實作"
 authors: [Zane]
 tags: [Flutter, MobX]
-categories: [Programming]
+categories: [程式語言]
 date: 2020-04-14T13:56:46+08:00
 lastmod: 2020-04-14T13:56:46+08:00
 featured: false

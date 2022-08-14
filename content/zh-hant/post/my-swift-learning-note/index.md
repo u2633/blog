@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Swift 語法重點紀錄"
 authors: [Zane]
 tags: [Swift]
-categories: [Programming]
+categories: [程式語言]
 date: 2020-03-15T17:00:26+08:00
 lastmod: 2020-03-15T17:00:26+08:00
 featured: false
