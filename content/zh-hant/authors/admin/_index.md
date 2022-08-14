@@ -61,4 +61,4 @@ email: "zanechen.bz@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-我是個熱愛滑版並且對技術充滿好奇心的工程師，同時具備作業系統的軟硬體測試、網路應用程式的前端及後端開發、DevOps及AWS雲端系統管理的經驗。
+我是個熱愛滑版並且對技術充滿好奇心的工程師，同時具備作業系統的軟硬體測試、網路應用程式的前端及後端開發、DevOps及AWS雲端系統管理的經驗。近年轉往以雲原生技術為重點發展技術，以 [AWS](https://aws.amazon.com/) 為主要使用的雲端平台。
