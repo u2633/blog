@@ -5,25 +5,25 @@
 
 # Appearance
 appearance:
-  theme_day: mr_robot
-  theme_night: mr_robot
-  font: mr_robot
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
   font_size: L
 
 # SEO
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: ''
-    twitter: ''
+    local_business_type: ""
+    org_name: ""
+    description: ""
+    twitter: ""
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: ""
+    baidu_tongji: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 header:
@@ -40,7 +40,7 @@ header:
 footer:
   copyright:
     # Copyright © 2022 Zane Chen. All Rights Reserved
-    notice: '© {year} Zane Chen. This work is licensed under {license}'
+    notice: "© {year} Zane Chen. This work is licensed under {license}"
     # notice: '© {year} Zane Chen. All Rights Reserved'
     license:
       enable: true
@@ -50,8 +50,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
   address_format: en-us
 
 # Site features
@@ -66,29 +66,29 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/u2633/blog.git'
+    url: "https://github.com/u2633/blog.git"
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: ""
     disqus:
-      shortname: ''
+      shortname: ""
       show_count: true
     commento:
-      url: ''
+      url: ""
   search:
     provider: wowchemy
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
+      app_id: ""
+      api_key: ""
+      index_name: ""
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: ""
+    api_key: ""
     zoom: 15
 
 extensions:
