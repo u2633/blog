@@ -49,14 +49,14 @@ feature:
 - description:
   icon: angular
   icon_pack: fab
-  name: Angular(2+)
+  name: Angular
 
-- description:
+- description: Nest.js
   icon: node-js
   icon_pack: fab
-  name: NodeJS
+  name: NodeJs
 
-- description:
+- description: Typescript
   icon: js
   icon_pack: fab
   name: Javascript

@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -21,8 +21,8 @@ content:
   # Filter on criteria
   filters:
     author: ""
-    category: "aws"
-    tag: ""
+    category: ""
+    tag: "aws"
     exclude_featured: false
     exclude_future: false
     exclude_past: false

@@ -5,20 +5,20 @@
 
 main:
   - name: 關於我
-    url: '#about'
+    url: "#about"
     weight: 10
   - name: 文章
-    url: '#posts'
+    url: "#posts"
     weight: 20
+  - name: AWS
+    url: "#aws"
+    weight: 11
   - name: 標籤
-    url: '#tags'
+    url: "#tags"
     weight: 30
   - name: 分類
-    url: '#categories'
+    url: "#categories"
     weight: 40
-  # - name: Projects
-  #   url: '#projects'
-  #   weight: 30
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
