@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 個人經驗
+title: 工作經驗
 subtitle:
 
 # Date format for experience
