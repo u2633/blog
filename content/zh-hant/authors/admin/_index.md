@@ -10,18 +10,17 @@ role: 軟體工程師
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 
-  url: 
+- name:
+  url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: 最有效的學習方式就是實際動手做!
+bio: 最有效的學習方式就是動手做!
 
 # Interests to show in About widget
 interests:
-- Cloud Native
-- Serverless
-- 容器化服務
-- DevOps
+- 滑板
+- 自我成長
+- 探索新技術
 
 # Education to show in About widget
 education:
@@ -49,7 +48,7 @@ social:
   link: https://www.linkedin.com/in/zane-chen-8a508787/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
@@ -61,4 +60,4 @@ email: "zanechen.bz@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-我是個熱愛滑版並且對技術充滿好奇心的工程師，同時具備作業系統的軟硬體測試、網路應用程式的前端及後端開發、DevOps及AWS雲端系統管理的經驗。近年轉往以雲原生技術為重點發展技術，以 [AWS](https://aws.amazon.com/) 為主要使用的雲端平台。
+我是個熱愛滑版並且對技術充滿好奇心的工程師，在將近十年的職涯中同時具備了系統軟硬體測試、網路應用程式的前後端開發、DevOps及AWS還有GCP的雲端平台管理經驗。近年轉往以雲原生技術為重點發展技術，並以 [AWS](https://aws.amazon.com/) 為主要使用的雲端平台。

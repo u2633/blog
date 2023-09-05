@@ -3,7 +3,7 @@
 
 title: "Linux Commands Cheat Sheet"
 subtitle: "haha"
-summary: "Kubernetes commands that I think it's important or commonly used"
+summary: "Linux commands that I think it's important or commonly used"
 authors: [Zane]
 tags: [Linux]
 categories: [Cheat Sheet]

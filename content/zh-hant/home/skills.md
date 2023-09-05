@@ -16,61 +16,61 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: "CSAA"
+- description:
   icon: aws
   icon_pack: fab
   name: AWS
 
-- description: 70%
+- description:
+  icon: google
+  icon_pack: fab
+  name: GCP/Firebase
+
+- description:
   icon: google
   icon_pack: fab
   name: Golang
 
-- description: 70%
+- description:
   icon: docker
   icon_pack: fab
   name: Docker
 
-- description: 5%
-  icon: google
-  icon_pack: fab
-  name: Kubernetes
-
-- description: 80%
+- description:
   icon: jenkins
   icon_pack: fab
   name: Jenkins
 
-- description: 80%
-  icon: google
-  icon_pack: fab
-  name: Flutter
-
-- description: 80%
+- description:
   icon: python
   icon_pack: fab
-  name: Python
+  name: Python 3
 
-- description: 70%
+- description:
   icon: angular
   icon_pack: fab
   name: Angular(2+)
 
-- description: 70%
+- description:
+  icon: node-js
+  icon_pack: fab
+  name: NodeJS
+
+- description:
+  icon: js
+  icon_pack: fab
+  name: Javascript
+
+- description: Composition API
   icon: vuejs
   icon_pack: fab
-  name: Vue3
-
-- description: 60%
-  icon: react
-  icon_pack: fab
-  name: React
+  name: Vue 3
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#  description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
