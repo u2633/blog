@@ -1,11 +1,18 @@
-# Font style metadata
+# Theme metadata
 name = "Mr Robot"
 
-# Optional Google font URL
-google_fonts = "B612+Mono:400,700|Orbitron:400,700"
+# Is theme light or dark?
+light = false
 
-# Font families
-heading_font = "Orbitron"
-body_font = "B612 Mono"
-nav_font = "B612 Mono"
-mono_font = "B612 Mono"
+# Primary
+primary = "rgb(0, 136, 204)"
+
+# Menu
+menu_primary = "rgb(33, 37, 41)"
+menu_text = "rgb(0, 136, 204)"
+menu_text_active = "rgba(255,255,255,1)"
+menu_title = "rgb(153, 153, 153)"
+
+# Home sections
+home_section_odd = "rgb(29, 33, 39)"
+home_section_even = "rgb(29, 33, 39)"

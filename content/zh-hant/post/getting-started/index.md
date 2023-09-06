@@ -22,6 +22,7 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
