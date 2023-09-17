@@ -7,12 +7,12 @@ main:
   - name: 關於我
     url: "#about"
     weight: 10
-  - name: 文章
-    url: "#posts"
-    weight: 20
-  - name: AWS
+  - name: AWS相關
     url: "#aws"
     weight: 11
+  - name: 近期文章
+    url: "#posts"
+    weight: 20
   - name: 標籤
     url: "#tags"
     weight: 30
