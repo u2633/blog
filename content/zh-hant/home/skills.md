@@ -46,7 +46,7 @@ feature:
   icon_pack: fab
   name: Python 3
 
-- description:
+- description: Angular2+
   icon: angular
   icon_pack: fab
   name: Angular
