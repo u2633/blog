@@ -32,6 +32,15 @@ item:
     date_end: '2025-01-18'
     description: ''
 
+  - organization: Amazon Web Service
+    organization_url: 'https://aws.amazon.com/'
+    title: Certified Developer Associate
+    url: 'https://aws.amazon.com/certification/certified-developer-associate/'
+    certificate_url: 'https://www.credly.com/badges/931dedb5-1d44-4ce3-b105-36e5e9546605/public_url'
+    date_start: '2023-12-11'
+    date_end: '2026-12-11'
+    description: ''
+
 design:
-  columns: '2' 
+  columns: '2'
 ---
