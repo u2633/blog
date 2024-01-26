@@ -3,8 +3,8 @@ command = "hugo --gc --minify -b $URL"
 publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.97.3"
-# HUGO_VERSION = "0.97.3" # Prevent be overwrited
+HUGO_VERSION = ""
+# HUGO_VERSION = ""
 HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
